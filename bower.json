@@ -1,0 +1,24 @@
+{
+  "name": "angular-smartconfirm",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ObaidUrRehman/angular-smartconfirm",
+  "authors": [
+    "obaid.urrehman@gmail.com"
+  ],
+  "description": "Angular directive to display inline confirmation buttons that can replace the use of pop-up dialogs.",
+  "main": "angular-smartconfirm.js",
+  "keywords": [
+    "input",
+    "angular",
+    "confirm",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
