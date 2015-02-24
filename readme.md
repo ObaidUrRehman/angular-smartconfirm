@@ -23,9 +23,9 @@ In your document header include the following javascript.
 ```
 
 ## Usage
-In your AngularJS app, you'll need to import the `angular-smartconfirm` module:
+In your AngularJS app, you'll need to import the `angularSmartconfirm` module:
 
-`angular.module('myModule', ['angular-smartconfirm']);`
+`angular.module('myModule', ['angularSmartconfirm']);`
 
 Now you can use the `angular-smartconfirm` directive in the following manner:
 
