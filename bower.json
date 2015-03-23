@@ -6,7 +6,7 @@
     "obaid.urrehman@gmail.com"
   ],
   "description": "Angular directive to display inline confirmation buttons that can replace the use of pop-up dialogs.",
-  "main": "angular-smartconfirm.js",
+  "main": "src/angular-smartconfirm.js",
   "keywords": [
     "input",
     "angular",
